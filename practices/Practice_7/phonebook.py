@@ -1,5 +1,5 @@
 import csv
-from connect import execute_query # Import the helper you just moved
+from connect import execute_query 
 
 def create_table():
     execute_query("CREATE TABLE IF NOT EXISTS phonebook (user_name VARCHAR(100), phone_number VARCHAR(20))")
