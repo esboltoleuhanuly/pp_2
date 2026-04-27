@@ -1,0 +1,310 @@
+[
+  {
+    "name": "A",
+    "email": "a@gmail.com",
+    "birthday": "2000-01-01",
+    "group": "Friend",
+    "phones": [
+      {
+        "phone": "7775551122",
+        "type": "home"
+      }
+    ]
+  },
+  {
+    "name": "Amelia Thompson",
+    "email": "amelia.t@gmail.com",
+    "birthday": "1997-04-22",
+    "group": "Family",
+    "phones": [
+      {
+        "phone": "7001239876",
+        "type": "home"
+      }
+    ]
+  },
+  {
+    "name": "Charlotte Evans",
+    "email": "charlotte.e@gmail.com",
+    "birthday": "1993-06-15",
+    "group": "Friend",
+    "phones": [
+      {
+        "phone": "7081234567",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "name": "Chloe Smith",
+    "email": "chloe.smith@gmail.com",
+    "birthday": "2002-12-07",
+    "group": "Other",
+    "phones": [
+      {
+        "phone": "7009123456",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "name": "Daniel Harris",
+    "email": "d.harris@company.co.uk",
+    "birthday": "1985-09-30",
+    "group": "Work",
+    "phones": [
+      {
+        "phone": "7712223344",
+        "type": "work"
+      }
+    ]
+  },
+  {
+    "name": "David",
+    "email": "david.wilson@gmail.com",
+    "birthday": "1985-03-10",
+    "group": null,
+    "phones": []
+  },
+  {
+    "name": "Ella Davies",
+    "email": "ella.davies@gmail.com",
+    "birthday": "1991-09-25",
+    "group": "Family",
+    "phones": [
+      {
+        "phone": "7079998877",
+        "type": "home"
+      }
+    ]
+  },
+  {
+    "name": "Emily",
+    "email": "emily.smith@yahoo.com",
+    "birthday": "1998-08-23",
+    "group": null,
+    "phones": []
+  },
+  {
+    "name": "Emily Carter",
+    "email": "emily.carter@outlook.com",
+    "birthday": "1995-07-24",
+    "group": "Friend",
+    "phones": [
+      {
+        "phone": "7475556677",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "name": "Ethan White",
+    "email": "ethan.white@business.co.uk",
+    "birthday": "1987-07-19",
+    "group": "Work",
+    "phones": [
+      {
+        "phone": "7727778899",
+        "type": "work"
+      }
+    ]
+  },
+  {
+    "name": "George Thompson",
+    "email": "g.thompson@corp.co.uk",
+    "birthday": "1980-06-08",
+    "group": "Work",
+    "phones": [
+      {
+        "phone": "7712121212",
+        "type": "work"
+      }
+    ]
+  },
+  {
+    "name": "Grace Moore",
+    "email": "grace.moore@gmail.com",
+    "birthday": "1996-08-14",
+    "group": "Friend",
+    "phones": [
+      {
+        "phone": "7079001234",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "name": "Harry Wilson",
+    "email": "harry.wilson@corp.co.uk",
+    "birthday": "1983-12-01",
+    "group": "Work",
+    "phones": [
+      {
+        "phone": "7714455667",
+        "type": "work"
+      }
+    ]
+  },
+  {
+    "name": "Isla Robinson",
+    "email": "isla.rob@mail.com",
+    "birthday": "2000-10-03",
+    "group": "Family",
+    "phones": [
+      {
+        "phone": "7001119988",
+        "type": "home"
+      }
+    ]
+  },
+  {
+    "name": "Jack Martin",
+    "email": "jack.martin@yahoo.com",
+    "birthday": "1994-11-22",
+    "group": "Other",
+    "phones": [
+      {
+        "phone": "7009887766",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "name": "James Fletcher",
+    "email": "james.fletcher@gmail.com",
+    "birthday": "1990-03-12",
+    "group": "Work",
+    "phones": [
+      {
+        "phone": "7071112233",
+        "type": "work"
+      }
+    ]
+  },
+  {
+    "name": "Jessica",
+    "email": "jess.white@mail.com",
+    "birthday": "2000-07-04",
+    "group": null,
+    "phones": []
+  },
+  {
+    "name": "John",
+    "email": "john.doe@gmail.com",
+    "birthday": "1995-05-12",
+    "group": null,
+    "phones": []
+  },
+  {
+    "name": "Liam Johnson",
+    "email": "liam.j@outlook.com",
+    "birthday": "2001-01-08",
+    "group": "Other",
+    "phones": [
+      {
+        "phone": "7771122334",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "name": "Linda",
+    "email": "linda.g@outlook.com",
+    "birthday": "1988-06-18",
+    "group": null,
+    "phones": []
+  },
+  {
+    "name": "Mia Anderson",
+    "email": "mia.anderson@gmail.com",
+    "birthday": "1998-01-16",
+    "group": "Friend",
+    "phones": [
+      {
+        "phone": "7071239988",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "name": "Michael",
+    "email": "m.brown@outlook.com",
+    "birthday": "1990-01-30",
+    "group": null,
+    "phones": []
+  },
+  {
+    "name": "Noah Taylor",
+    "email": "noah.taylor@gmail.com",
+    "birthday": "1992-05-27",
+    "group": "Friend",
+    "phones": [
+      {
+        "phone": "7075544332",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "name": "Oliver Bennett",
+    "email": "oliver.b@gmail.com",
+    "birthday": "1988-11-05",
+    "group": "Family",
+    "phones": [
+      {
+        "phone": "7001234567",
+        "type": "home"
+      }
+    ]
+  },
+  {
+    "name": "Poppy Jackson",
+    "email": "poppy.j@gmail.com",
+    "birthday": "2003-03-31",
+    "group": "Friend",
+    "phones": [
+      {
+        "phone": "7771234560",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "name": "Robert",
+    "email": "robert.miller@kbtu.kz",
+    "birthday": "1992-12-25",
+    "group": null,
+    "phones": []
+  },
+  {
+    "name": "Sarah",
+    "email": "sarah.j@kbtu.kz",
+    "birthday": "2002-11-15",
+    "group": null,
+    "phones": []
+  },
+  {
+    "name": "Sophie Williams",
+    "email": "sophie.w@yahoo.com",
+    "birthday": "1999-02-18",
+    "group": "Friend",
+    "phones": [
+      {
+        "phone": "7009876543",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "name": "William Brown",
+    "email": "will.brown@outlook.com",
+    "birthday": "1989-04-14",
+    "group": "Friend",
+    "phones": [
+      {
+        "phone": "7771001122",
+        "type": "mobile"
+      }
+    ]
+  }
+]
